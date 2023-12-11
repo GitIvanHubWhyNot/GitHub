@@ -5,7 +5,7 @@ int main()
 int k, i = 1, sum_k = 0, number;
 cout << " Enter the amount of integers to sum = "; cin >> k;
 do {
-cout << "Enter integer nr. " << i << ": "; 
+cout << “Enter integer nr. " << i << ": "; 
 cin >> number;
   while (number-(int)number!=0)
   { cout << "Please, enter integers" << endl;
